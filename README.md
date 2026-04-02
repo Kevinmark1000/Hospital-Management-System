@@ -13,9 +13,8 @@ This project is a Hospital Management System developed to manage patient records
 
 ## 🛠 Technologies Used
 
-* Java / Python
-* MySQL / SQLite
-* Tkinter / Swing
+* Python
+  
 
 ## ▶️ How to Run
 
